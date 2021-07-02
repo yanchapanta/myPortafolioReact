@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { BrowserRouter as Link } from 'react-router-dom';
 
 import image01 from '../sources/imgProject/01ana.jpg';
 import image02 from '../sources/imgProject/02karen.jpg';
