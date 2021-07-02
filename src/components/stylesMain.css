@@ -1,0 +1,49 @@
+:root {
+	--bgone: #2f6690;
+	--bgtwo: #3a7ca5;
+	--bgthree: #d9dcd6;
+	--bgfour: #16425b;
+	--bgfive: #81c3d7;
+}
+* {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: var(--bgfour);
+}
+.myBg01 {
+	color: var(--bgone);
+}
+.myBg02 {
+	color: var(--bgtwo);
+}
+.myBg03 {
+	color: var(--bgthree);
+}
+.myBg04 {
+	color: var(--bgfour);
+}
+.myBg05 {
+	background-color: var(--bgfive);
+}
+.myBgf01 {
+	background-color: var(--bgone);
+}
+.myBgf02 {
+	background-color: var(--bgtwo);
+}
+.myBgf03 {
+	background-color: var(--bgthree);
+}
+.myBgf04 {
+	background-color: var(--bgfour);
+}
+.myBgf05 {
+	background-color: var(--bgfive);
+}
